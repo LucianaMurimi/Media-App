@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531706659947",
+    "project_id": "sccult-media-app",
+    "storage_bucket": "sccult-media-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531706659947:android:6f537757fb4a4a2642dd2e",
+        "android_client_info": {
+          "package_name": "com.example.sccult_media"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLS95ZrVQ_kSK2T3blhr4Y6J2pNjXXxNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

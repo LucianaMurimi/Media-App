@@ -1,0 +1,21 @@
+flutter_icons:
+  android: true
+    ios: true
+    image_path: "assets/images/sccult_logo_white.jpg"
+    adaptive_icon_background: "#FFFFFF"  # Use a solid color or an image
+    adaptive_icon_foreground: "assets/images/sccult_logo_white.jpg"  # Foreground image
+
+  web:
+    generate: true
+    image_path: "assets/images/sccult_logo_white.jpg"
+    background_color: "#FFFFFF"  # Replace with desired hex color
+    theme_color: "#000000"       # Replace with desired hex color
+
+  windows:
+    generate: true
+    image_path: "assets/images/sccult_logo_white.jpg"
+    icon_size: 48  # Valid range: 48–256, default is 48
+
+  macos:
+    generate: true
+    image_path: "assets/images/sccult_logo_white.jpg"

@@ -1,0 +1,322 @@
+{
+  "language": "Language",
+  "@language": {
+    "description": ""
+  },
+  "localization": "Localization",
+  "@localization": {
+    "description": ""
+  },
+  "preferredLanguage": "Preferred language",
+  "@preferredLanguage": {
+    "description": ""
+  },
+  "english": "English",
+  "@english": {
+    "description": ""
+  },
+  "kiswahili": "Kiswahili",
+  "@kiswahili": {
+    "description": ""
+  },
+  "admin": "Admin",
+  "@admin": {
+    "description": "admin"
+  },
+  "adminLogin": "Admin Login",
+  "@adminLogin": {
+    "description": ""
+  },
+  "email": "email",
+  "@email": {
+    "description": ""
+  },
+  "emailTitleCase": "Email",
+  "@emailTitleCase": {
+    "description": "email"
+  },
+  "emailHintText": "example@gmail.com",
+  "@emailHintText": {
+    "description": ""
+  },
+  "emailEmptyErrorText": "Email field cannot be empty",
+  "@emailEmptyErrorText": {
+    "description": ""
+  },
+  "emailErrorText": "Enter a valid email address",
+  "@emailErrorText": {
+    "description": ""
+  },
+  "password": "password",
+  "@password": {
+    "description": ""
+  },
+  "confirmPassword": "confirm password",
+  "@confirmPassword": {
+    "description": ""
+  },
+  "passwordHintText": "password",
+  "@passwordHintText": {
+    "description": "password hint text"
+  },
+  "passwordEmptyErrorText": "Password field cannot be empty",
+  "@passwordEmptyErrorText": {
+    "description": ""
+  },
+  "weakPasswordErrorText": "Password must be at least 6 characters long",
+  "@weakPasswordErrorText": {
+    "description": ""
+  },
+  "passwordMismatch": "Password did not match",
+  "@passwordMismatch": {
+    "description": "Password did not match"
+  },
+  "passwordErrorText": "Incorrect password",
+  "@passwordErrorText": {
+    "description": ""
+  },
+  "resetPassword": "Reset password",
+  "@resetPassword": {
+    "description": ""
+  },
+  "login": "Login",
+  "@login": {
+    "description": ""
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": ""
+  },
+  "confirmLogout": "Logout from SCCULT Media App?",
+  "@confirmLogout": {
+    "description": ""
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": ""
+  },
+  "profile": "Profile",
+  "@profile": {
+    "description": ""
+  },
+  "myProfile": "My Profile",
+  "@myProfile": {
+    "description": ""
+  },
+  "accountSetting": "Account Settings",
+  "@accountSetting": {
+    "description": ""
+  },
+  "home": "Home",
+  "@home": {
+    "description": ""
+  },
+  "myChannels": "My Channels",
+  "@myChannels": {
+    "description": ""
+  },
+  "upcoming": "Upcoming",
+  "@upcoming": {
+    "description": ""
+  },
+  "saccosName": "SACCOS name",
+  "@saccosName": {
+    "description": ""
+  },
+  "account": "Account",
+  "@account": {
+    "description": ""
+  },
+  "saved": "Saved",
+  "@saved": {
+    "description": ""
+  },
+  "posts": "Posts",
+  "@posts": {
+    "description": ""
+  },
+  "members": "Members",
+  "@members": {
+    "description": ""
+  },
+  "editProfile": "Edit Profile",
+  "@editProfile": {
+    "description": ""
+  },
+  "loginMessage": "Log in to your SCCULT Media App account",
+  "@loginMessage": {
+    "description": ""
+  },
+  "loginError": "Unable to login! Please verify your login credentials and try again.",
+  "@loginError": {
+    "description": ""
+  },
+  "authenticationError": "Authentication error. The user lacks permission to perform this operation.",
+  "@authenticationError": {
+    "description": ""
+  },
+  "isEmailVerified": "Email verified",
+  "@isEmailVerified": {
+    "description": ""
+  },
+  "verified": "verified",
+  "@verified": {
+    "description": ""
+  },
+  "notVerified": "not verified",
+  "@notVerified": {
+    "description": ""
+  },
+  "enabled": "Enabled",
+  "@enabled": {
+    "description": ""
+  },
+  "enable": "Enable",
+  "@enable": {
+    "description": ""
+  },
+  "disabled": "Disabled",
+  "@disabled": {
+    "description": ""
+  },
+  "disable": "Disable",
+  "@disable": {
+    "description": ""
+  },
+  "registrationError": "An error has occurred. We have been unable to register you!",
+  "@registrationError": {
+    "description": ""
+  },
+  "checkRegistrationDetails": "Check your registration details and try again.",
+  "@checkRegistrationDetails": {
+    "description": ""
+  },
+  "noInternetError": "No internet connection.",
+  "@noInternetError": {
+    "description": ""
+  },
+  "tryConnectingToInternet": "Kindly connect to the internet before proceeding.",
+  "@tryConnectingToInternet": {
+    "description": ""
+  },
+  "checkboxError": "Please check all the boxes to confirm before proceeding.",
+  "@checkboxError": {
+    "description": ""
+  },
+  "userAccount": "User Account",
+  "@userAccount": {
+    "description": ""
+  },
+  "register": "Don't have an account?",
+  "@register": {
+    "description": ""
+  },
+  "registerLink": "Register",
+  "@registerLink": {
+    "description": ""
+  },
+  "registration": "Registration",
+  "@registration": {
+    "description": ""
+  },
+  "noInternetUsersManagement": "Must be connected to the internet in order to view and manage users.",
+  "@noInternetUsersManagement": {
+    "description": ""
+  },
+  "resetPasswd": "Reset Password",
+  "@resetPasswd": {
+    "description": ""
+  },
+  "providePasswordResetEmail": "Provide the email address linked to your SCCULT Media App account:",
+  "@providePasswordResetEmail": {
+    "description": ""
+  },
+  "passwordResetProcess": "Password reset process",
+  "@passwordResetProcess": {
+    "description": ""
+  },
+  "passwordResetProcess1": "Ensure your device is connected to the internet",
+  "@passwordResetProcess1": {
+    "description": ""
+  },
+  "passwordResetProcess2": "Provide the email address linked to your SCCULT Media App account",
+  "@passwordResetProcess2": {
+    "description": ""
+  },
+  "passwordResetProcess3": "A password reset link will be sent to the email address provided",
+  "@passwordResetProcess3": {
+    "description": ""
+  },
+  "passwordResetProcess4": "Reset your password and log into SCCULT Media App with the new password.",
+  "@passwordResetProcess4": {
+    "description": ""
+  },
+  "continueStr": "Continue",
+  "@continueStr": {
+    "description": ""
+  },
+  "name": "Full names",
+  "@name": {
+    "description": ""
+  },
+  "nameHintText": "Example: John Jason Doe",
+  "@nameHintText": {
+    "description": ""
+  },
+  "username": "Username",
+  "@username": {
+    "description": ""
+  },
+  "confirmPassword": "confirm password",
+  "@confirmPassword": {
+    "description": "password"
+  },
+  "location": "Location",
+  "@location": {
+    "description": ""
+  },
+  "bioDescription": "A brief description about yourself...",
+  "@bioDescription": {
+    "description": ""
+  },
+  "uploadProfilePicture": "Upload profile picture",
+  "@uploadProfilePicture": {
+    "description": ""
+  },
+  "noImage": "No Image selected",
+  "@noImage": {
+    "description": ""
+  },
+  "next": "Next",
+  "@next": {
+    "description": ""
+  },
+  "registerAs": "Register as:",
+  "@registerAs": {
+    "description": ""
+  },
+  "anIndividual": "an individual",
+  "@anIndividual": {
+    "description": ""
+  },
+  "anInstitution": "an institution",
+  "@anInstitution": {
+    "description": ""
+  },
+  "photoGallery": "Photo gallery",
+  "@photoGallery": {
+    "description": ""
+  },
+  "cannotBeEmpty": "This value cannot be empty",
+  "@cannotBeEmpty": {
+    "description": ""
+  },
+  "pleaseSelectOption": "Please select an option from the list",
+  "@pleaseSelectOption": {
+    "description": ""
+  },
+  "imageUploadError": "Failed to upload image",
+  "@imageUploadError": {
+    "description": ""
+  }
+}
